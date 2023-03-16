@@ -13,11 +13,9 @@
                 <div class="container">
                     <h1>Hola JSP</h1>
         </div>
-          
-        <div class="card">
-      <div class="card-body">
-       AAAAAAAAAAAAAAAAAAAAAAAA
-      </div>
-    </div>
+        <header><nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  
+</nav></header>
+        
     </body>
 </html>
